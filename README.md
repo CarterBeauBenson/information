@@ -9,7 +9,7 @@ Competency questions serve as a tool for testing and validating the knowledge ca
 At the start of this evaluation process, several key questions were identified:
 
 - **What is the purpose of the evaluation?**  
-  The goal is to evaluate the strengths and limitations of existing information ontologies. These competency questions help assess whether the ontology can answer important domain-specific queries and identify gaps or inconsistencies in its structure.
+  The goal is to evaluate the strengths and limitations of existing information ontologies. These competency questions help assess whether the ontology can answer important domain-specific queries and identify gaps or inconsistencies in its structure. 
 
 - **What is the end goal?**  
   The competency questions aim to provide insights into how well the existing ontologies meet their intended purposes. They help highlight areas for improvement, providing feedback that can inform future iterations or guide the selection of ontologies for specific applications.
@@ -19,7 +19,7 @@ At the start of this evaluation process, several key questions were identified:
 This evaluation process, grounded in competency questions, serves as a contribution to the broader ontology community. By carefully documenting how well existing information ontologies address key questions, we can:
 
 1. **Enhance Understanding of Information Ontologies**:  
-   These questions help clarify the scope and accuracy of existing information models. They test whether the ontologies align with best practices and capture the necessary relationships and concepts.
+   These questions help clarify the scope and accuracy of existing information models. They test whether the ontologies align with best practices and capture the necessary relationships and concepts. They can also reveal how some information ontologies might be better suited to modelling for certain use cases than other information ontologies. 
 
 2. **Provide Documentation for Design Patterns**:  
    Beyond the evaluation, the results can be used to document successful design patterns within the ontologies. This documentation can serve as a reference for other ontology developers, ensuring consistent and high-quality design practices.
